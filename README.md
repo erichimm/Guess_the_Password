@@ -1,3 +1,3 @@
 # Guess the Password
 
-Simple browser game with an ES2015 refactor. Open `index.html` in the browser to play the game. 
+Browser game with an ES2015 and jQuery refactor. Click [here](https://erichimm.github.io/Guess_the_Password/) to play the game. 
